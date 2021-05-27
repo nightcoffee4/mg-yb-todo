@@ -5,7 +5,7 @@
 
 ## How to start?
 
-### `yarn start`
+### `> yarn start`
 
 
 ![image](./yb-todo.png)
